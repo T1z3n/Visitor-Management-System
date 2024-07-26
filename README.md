@@ -85,7 +85,7 @@ Host also receives mail on his guest entry which contains all information about 
 
 ![Database](https://i.imgur.com/0dM4z28.png)
 
-I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different <i>http://visitor.almafiesta.com/display.php</i> , We can also keep a Authorisation system also to access this page.
+I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different <i>URL have to change (usin' http and is down)</i> , We can also keep a Authorisation system also to access this page.
   
 Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn't checked out.
 
@@ -130,9 +130,9 @@ Visitor receives one final mail with all his details as well an updated CheckIn 
 
 2) This website has used HTML, CSS, Javascript, BootStrap, MySQl, PHP. This is created from scratch and no template is copied.
 
-3) This Visitor Management portal is live <i> http://visitor.almafiesta.com </i>. Please have a visit.
+3) This Visitor Management portal is live <i> URL have to change (usin' http and is down) </i>. Please have a visit.
 
-4) Managers and Adminstrators can check the MySQL database. I have fetched all its details from MySQL to a dynamic webpage. Have a look <i> http://visitor.almafiesta.com/display.php </i>.
+4) Managers and Adminstrators can check the MySQL database. I have fetched all its details from MySQL to a dynamic webpage. Have a look <i> URL have to change (usin' http and is down) </i>.
 
 
 # Further possible Extensions
