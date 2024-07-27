@@ -1,3 +1,4 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 # Visitor-Management-System
 
 Designed a responsive website for Visitors management in a large organisation. Here visitors on arrival will Check in. So they will register on Visitors registrationa portal in which they will enter required details. Visitor will be mailed a unique UserID which will be required when he wants to check out.
