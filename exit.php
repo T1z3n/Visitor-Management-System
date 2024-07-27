@@ -36,7 +36,7 @@ if ($Email != $Phone) {
   $sql1 = mysqli_query($conn, $sql1) or die(mysqli_error($conn));
 
   if ($sql1->num_rows == 0) {
-    $message = "Your Email and UserID not matched. Check your Email for UserId";
+    $message = "Die eingegebenen Daten stimmen nicht überein. Überprüfe deine Mails";
     echo "<script type='text/javascript'>;alert('$message');window.location.href='index.html';</script>";
   }
 
@@ -50,8 +50,8 @@ if ($Email != $Phone) {
   $Address = $row["Address"];
   $HostName = $row["HostName"];
 
-  if ($Depart != "Inside") {
-    $message = "You have already checked out";
+  if ($Depart != "Check-In") {
+    $message = "Du bist bereits eingecheckt";
     echo "<script type='text/javascript'>;alert('$message');window.location.href='index.html';</script>";
   }
   $Depart = date('Y/m/d H:i:s');
@@ -64,7 +64,7 @@ if ($Email != $Phone) {
   // echo $sql3." cvcxv ".$Depart;
 
   if (mysqli_query($conn, $sql3) == TRUE) {
-    $message = "Thank You for visiting Us. You will receive a mail soon. Check your Inbox (Spam too).";
+    $message = "Vielen Dank. Überprüfe deine Mails um weiterzumachen.";
 
     //echo $message, "Your UserID is ", $UserId;
     send_email_depart($Username, $UserId, $Email, $Phone, $Arrive, $Depart, $HostName, $Address);
@@ -74,11 +74,11 @@ if ($Email != $Phone) {
   } else {
     /*printf("error: %s\n", mysqli_error($conn)); //very important to check error
         */
-    $message = "Oops, the server seems to be too busy. Our bad. Please try again.";
+    $message = "Verbindung mit dem Server konnte nicht hergestellt werden, bitte versuche es später erneut.";
     echo "<script type='text/javascript'>;alert('$message');window.location.href='index.html';</script>";
   }
 } else {
-  $message = "Please Enter Email and Phone No. correctly";
+  $message = "E-Mail od. Telefonnummer fehlerhaft.";
   echo "<script type='text/javascript'>;alert('$message');window.location.href='index.php';</script>";
 }
 

@@ -24,7 +24,7 @@
 
 <body>
 
-    <p id="p03"> VISITORS DETAILS</p>
+    <p id="p03"> Besucher Details</p>
 
     <div class="table-responsive">
 

@@ -5,6 +5,8 @@
 
 	<link rel="shortcut icon" href="/images/favicon.ico">
 
+	<link rel="manifest" href="/manifest.json">
+
 	<link rel="stylesheet" href="css/stylesheet.css">
 
 	<meta charset="utf-8">
@@ -24,15 +26,21 @@
 
 <body>
 
+<script>
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js', { scope: '/' });
+}
+</script>
+
 	<img src="images/pic02.svg" alt="summer geeks" id="left">
 
 	<div class="middle">
 
-		<p id="p01"> VISITORS REGISTRATION PORTAL</p>
+		<p id="p01">Besucher Anmeldung</p>
 		<br> <br>
 		<center>
 			<button type="button" class="btn btn-success btn-lg btn-block btn_space_left" data-toggle="modal"
-				data-target="#register">Register</button>
+				data-target="#register">Check-In</button>
 
 			<button type="button" class="btn btn-warning btn-lg btn-block btn_space_right" data-toggle="modal"
 				data-target="#exit">
@@ -111,15 +119,14 @@
 									placeholder="Enter Address" required>
 							</div>
 						</div>
-						<!--
+
 						<div class="form-group">
 							<div class="col-sm-offset-2 col-sm-10">
-								<div class="checkbox">
-									<label><input type="checkbox"> Remember me</label>
-								</div>
+								<label><input type="checkbox"> Remember me:</label>
+								<div class="checkbox"></div>
 							</div>
 						</div>
-					-->
+
 
 						<div class="form-group">
 							<div class="col-sm-offset-2 col-sm-10">
@@ -171,7 +178,7 @@
 
 
 
-						<!--
+
 						<div class="form-group">
 							<div class="col-sm-offset-2 col-sm-10">
 								<div class="checkbox">
@@ -179,7 +186,6 @@
 								</div>
 							</div>
 						</div>
-					-->
 
 						<div class="form-group">
 							<div class="col-sm-offset-2 col-sm-10">
