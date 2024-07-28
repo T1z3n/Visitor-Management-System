@@ -11,7 +11,6 @@ We will not accept reports of vulnerabilities of the following types:
 > - Theoretical attacks without proof of exploitability.
 > - Attacks that are the result of a third-party application or library (these should instead be reported to the library maintainers).
 > - Social engineering.
-> - Attacks that require the user to have access to the Home Assistant host system.
 > - Attacks involving physical access to a user’s device, or involving a device or network that’s already seriously compromised (like, man-in-the-middle).
 > - Attacks that require the user to install a malicious other software, like a third-party integration, add-on, or plugin.
 > - Attacks that the user can only perform against their own setup.
