@@ -4,7 +4,7 @@
 Designed a responsive website for Visitors management in a large organisation. Here visitors on arrival will Check in. So they will register on Visitors registrationa portal in which they will enter required details. Visitor will be mailed a unique UserID which will be required when he wants to check out.
 
 # Translation (BETA)
-(https://gitlocalize.com/repo/9792)
+[![gitlocalized ](https://gitlocalize.com/repo/9792/whole_project/badge.svg)](https://gitlocalize.com/repo/9792?utm_source=badge)
 
 # Features
 
