@@ -24,7 +24,7 @@ At the moment there's no LTS avalible.
 ## SEVERITY SCORING
 If you are familiar with CVSS3.1, please provide the vulnerability score in your report in the shape of a vector string. There’s a calculator that can be helpful. If you are unsure how or unable to score a vulnerability, state that in your report, and we will look into it.
 
-If you intend to provide a score, please familiarize yourself with CVSS first (we strongly recommend reading the Specification and Scoring Guide), as we will not accept reports that use it incorrectly.
+If you intend to provide a score, please familiarize yourself with CVSS first (we strongly recommend reading the Specification and Scoring Guide).
 
 > Sources:
 > 
