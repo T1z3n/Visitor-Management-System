@@ -28,7 +28,7 @@ If you intend to provide a score, please familiarize yourself with CVSS first (w
 
 > Sources:
 > 
-> CVEE-Calculator: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+> CVSS-Calculator: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 
 ## BUG-Bounty
 
