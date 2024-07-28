@@ -18,15 +18,3 @@ Designed a responsive website for Visitors management in a large organisation. H
 3) This Visitor Management portal is live <i> URL have to change (usin' http and is down) </i>. Please have a visit.
 
 4) Managers and Adminstrators can check the MySQL database. I have fetched all its details from MySQL to a dynamic webpage. Have a look <i> URL have to change (usin' http and is down) </i>.
-
-
-# Further possible Extensions
-
-1) As we have implemented our website with a Login access system, We can easily extend our Visitor Mangaement website to other tasks also.
-
-2) We can also keep a feedback form in the exit form, which will help us to get more idea about Host behaviour and capabilities.
-
-3) In case of busy schedule of host, we can keep a track of guest for host and provide a better meeting time. In this case, we will ask our visitors to first fill the form and get an idea of waiting time. This will help in better management of visitors and will not waste Visitors time.
-
-
- 
