@@ -2,8 +2,8 @@
 
 ## REPORTING
 So, you have found a security vulnerability. Please, be sure to responsibly disclose it to us by reporting a vulnerability under following Page:
-https://github.com/T1z3n/Visitor-Management-System/issues
-
+[https://github.com/T1z3n/Visitor-Management-System/issues
+](https://github.com/T1z3n/Visitor-Management-System/security/advisories/new)
 ## NON-QUALIFYING VULNERABILITIES
 We will not accept reports of vulnerabilities of the following types:
 
