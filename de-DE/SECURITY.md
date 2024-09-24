@@ -2,10 +2,17 @@
 
 ## Unterstützte Version
 
-Derzeit wird auf Brave (Chromium) in einer NixOS-Maschine getestet.
+Aktuelle Firefox und Chrome-Ver.
 
-## Eine Sicherheitslücke melden
+## Eine Sicherheitslücke melden (VDE)
 
-In diesem Abschnitt können Sie anderen mitteilen, wie sie eine Sicherheitslücke melden können.
+Aktuelle Sicherheitslücken nehme ich unter:
 
-Sagen Sie ihnen, wohin sie sich wenden sollen, wie oft sie mit einem Update zu einer gemeldeten Sicherheitslücke rechnen können, was sie erwartet, wenn die Sicherheitslücke akzeptiert oder abgelehnt wird usw.
+https://github.com/T1z3n/Visitor-Management-System/security/advisories
+
+od. via mailto:info+VDE@njbraun.de
+
+entgegen.
+
+Das Finden und Mitteilen von Sicherheitsschwachstellen wird derzeit nicht Entlohnt und findet auf Ehrenamtliche Weise statt.
+Sollte eine Monitarisierung anstehen, wird dies auf der Repository-Site entsprechend Kenntlich gemacht.
