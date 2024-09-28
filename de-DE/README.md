@@ -1,3 +1,5 @@
+[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)]
+
 [](https://uptime.betterstack.com/?utm_source=status_badge)![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)
 
 # Besuchermanagementsystem
@@ -17,11 +19,3 @@ Entwurf eine responsive Website für das Besuchermanagement in einer großen Org
 3. Dieses Besuchermanagement-Portal ist live <i>, die URL muss geändert werden (verwendet http und ist down)</i> . Bitte besuchen Sie es.
 
 4. Manager und Administratoren können die MySQL-Datenbank überprüfen. Ich habe alle Details aus MySQL auf eine dynamische Webseite übertragen. Schauen Sie nach <i>, die URL muss geändert werden (verwendet http und ist down)</i> .
-
-# Weitere mögliche Erweiterungen
-
-1. Da wir unsere Website mit einem Login-Zugriffssystem implementiert haben, können wir unsere Besucherverwaltungswebsite problemlos auch auf andere Aufgaben erweitern.
-
-2. Wir können im Abschlussformular auch ein Feedback-Formular einfügen, das uns hilft, einen besseren Eindruck vom Verhalten und den Fähigkeiten des Hosts zu bekommen.
-
-3. Wenn der Gastgeber einen vollen Terminkalender hat, können wir die Gäste für den Gastgeber im Auge behalten und einen besseren Termin für das Treffen vereinbaren. In diesem Fall bitten wir unsere Besucher, zuerst das Formular auszufüllen und sich einen Eindruck von der Wartezeit zu verschaffen. Dies hilft bei der besseren Verwaltung der Besucher und vergeudet keine Zeit der Besucher.
