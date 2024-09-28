@@ -1,3 +1,5 @@
+[!https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg]
+
 [[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)]
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
