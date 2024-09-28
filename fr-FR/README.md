@@ -1,7 +1,7 @@
-[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)]
+[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)]
+[](https://uptime.betterstack.com/?utm_source=status_badge)
 
-[](https://uptime.betterstack.com/?utm_source=status_badge)![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)
-
+![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)
 # Système de gestion des visiteurs
 
 J'ai conçu un site Web réactif pour la gestion des visiteurs dans une grande organisation. Ici, les visiteurs à leur arrivée s'enregistreront. Ils s'inscriront donc sur le portail d'enregistrement des visiteurs dans lequel ils saisiront les informations requises. Le visiteur recevra par courrier électronique un identifiant d'utilisateur unique qui lui sera demandé lorsqu'il voudra effectuer son départ.
