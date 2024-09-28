@@ -1,4 +1,4 @@
-[!https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg]
+[!(https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg)]
 
 [[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)]
 
