@@ -1,7 +1,7 @@
-[ [Alemán](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md) ] | [ [Francés](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md) ] | [ [Español](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md) ]
+[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)]
+[](https://uptime.betterstack.com/?utm_source=status_badge)
 
-[](https://uptime.betterstack.com/?utm_source=status_badge)![Insignia de mejor pila](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)
-
+![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)
 # Sistema de gestión de visitantes
 
 Diseñé un sitio web responsivo para la gestión de visitantes en una gran organización. Aquí, los visitantes, al llegar, se registrarán en el portal de registro de visitantes, en el que ingresarán los datos necesarios. Se les enviará por correo electrónico un ID de usuario único que será necesario cuando deseen realizar el check out.
