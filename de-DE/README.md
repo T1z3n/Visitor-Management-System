@@ -1,5 +1,6 @@
 [[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)]
 [](https://uptime.betterstack.com/?utm_source=status_badge)
+
 ![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)
 
 # Besuchermanagementsystem
