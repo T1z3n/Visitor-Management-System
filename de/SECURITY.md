@@ -6,7 +6,7 @@ Sie haben also eine Sicherheitslücke gefunden. Bitte teilen Sie uns diese veran
 
 ## NICHT QUALIFIZIERENDE SCHWACHSTELLEN
 
-We will not accept reports of vulnerabilities of the following types:
+Wir akzeptieren keine Berichte zu Schwachstellen der folgenden Art:
 
 > - Berichte von automatisierten Tools oder Scannern.
 > - Theoretische Angriffe ohne Nachweis der Ausnutzbarkeit.
