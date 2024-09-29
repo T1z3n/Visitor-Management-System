@@ -3,7 +3,7 @@
 
 
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/T1z3n/Visitor-Management-System/blob/master/CODE_OF_CONDUCT.md) 
 # Visitor-Management-System
 
 Designed a responsive website for Visitors management in a large organisation. Here visitors on arrival will Check in. So they will register on Visitors registrationa portal in which they will enter required details. Visitor will be mailed a unique UserID which will be required when he wants to check out.
