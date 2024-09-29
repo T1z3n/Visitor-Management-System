@@ -18,6 +18,6 @@ Designed a responsive website for Visitors management in a large organisation. H
 
 2) This website has used HTML, CSS, Javascript, BootStrap, MySQl, PHP. This is created from scratch and no template is copied.
 
-3) This Visitor Management portal is live [!here](https://t1z3n.github.io/Visitor-Management-System/). Please have a visit.
+3) This Visitor Management portal is live [here](https://t1z3n.github.io/Visitor-Management-System/). Please have a visit.
 
 4) Managers and Adminstrators can check the MySQL database. I have fetched all its details from MySQL to a dynamic webpage. Have a look <i> URL have to change (usin' http and is down) </i>.
