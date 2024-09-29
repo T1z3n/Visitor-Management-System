@@ -1,5 +1,6 @@
 
-[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)]
+[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/SECURITY.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/SECURITY.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/SECURITY.md)] | [[日本語]([https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/SECURITY.md))]
+
 # Security Policy
 
 ## REPORTING
