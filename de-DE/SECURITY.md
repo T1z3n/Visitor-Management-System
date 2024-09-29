@@ -6,7 +6,7 @@ Sie haben also eine Sicherheitslücke gefunden. Bitte teilen Sie uns diese veran
 
 ## Eine Sicherheitslücke melden (VDE)
 
-Aktuelle Sicherheitslücken nehme ich unter:
+Aktuelle Sicherheitslücken werden nicht mit einbezogen:
 
 > - Berichte von automatisierten Tools oder Scannern.
 > - Theoretische Angriffe ohne Nachweis der Ausnutzbarkeit.
