@@ -1,0 +1,28 @@
+            - name: 42Crunch REST API Dynamic Security Testing Freemium
+  # You may pin to the exact commit or the version.
+  # uses: 42Crunch/api-security-scan-action-freemium@82a6d09a7f4565a5964b386c3399b85ac2fb5a17
+  uses: 42Crunch/api-security-scan-action-freemium@v1
+  with:
+    # Upload results to Code Scanning Alerts
+    upload-to-code-scanning: # optional, default is true
+    # Personal Access Token
+    token: # optional, default is ${{ github.token }}
+    # The URL of the API deployment used by the scan. It must be a public URL or an internal URL accessible from the runner.
+    target-url: 
+    # Filename of the API to scan, relative to the workspace root.
+    api-definition: 
+    # The API key or token required to invoke the API hosted at target-host - This value can come from a GitHub secret or dynamically obtained in a previous pipeline step.
+    api-credential: # optional
+    # Log level
+    log-level: # optional, default is info
+    # Enrich the OpenAPI file leveraging the default data dictionary
+    data-enrich: # optional, default is false
+    # SARIF report
+    sarif-report: # optional
+    # Scan report file
+    scan-report: # optional
+    # Export the scan report as PDF
+    export-as-pdf: # optional
+    # Enforce Security Quality Gate
+    enforce-sqg: # optional, default is false
+          
