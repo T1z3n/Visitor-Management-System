@@ -2,7 +2,6 @@
 [[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)]
 
 
-
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/T1z3n/Visitor-Management-System/blob/master/CODE_OF_CONDUCT.md) | [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9497/badge)](https://www.bestpractices.dev/projects/9497)
 # Visitor-Management-System
 
