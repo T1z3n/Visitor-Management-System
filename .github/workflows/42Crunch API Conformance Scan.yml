@@ -1,0 +1,22 @@
+            - name: 42Crunch API Conformance Scan
+  # You may pin to the exact commit or the version.
+  # uses: 42Crunch/cicd-github-actions@e2c9a02bb391932aee6ef994de06ff2c7aae9ff6
+  uses: 42Crunch/cicd-github-actions@v1
+  with:
+    # API token to access 42Crunch Platform. Check https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm for details
+    api-token: 
+    # 42Crunch platform URL
+    platform-url: # optional, default is https://platform.42crunch.com
+    # Path to JSON report from audit step
+    audit-report-path: 
+    # List of API UUIDs to use
+    api-ids: # optional
+    # Path to save sarif report, add 'Convert to sarif' stage
+    convert-to-sarif: # optional
+    # Add 'Upload sarif' and 'Convert to sarif' stage
+    upload-sarif: # optional
+    # Add 'Check sqg' stage
+    check-sqg: # optional
+    # GitHub token for uploading results to Github Code Scanning
+    github-token: # optional, default is ${{ github.token }}
+          
