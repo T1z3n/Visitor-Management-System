@@ -1,5 +1,5 @@
 
-[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)] | [[indonesian](https://github.com/T1z3n/Visitor-Management-System/blob/master/id/README.md)]
+[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/README.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/README.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/README.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/README.md)] | [[indonesian](https://github.com/T1z3n/Visitor-Management-System/blob/master/id/README.md)] | [[Hindi](https://github.com/T1z3n/Visitor-Management-System/blob/master/hi/README.md)]
 
 
 
