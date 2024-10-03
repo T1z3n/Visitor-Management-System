@@ -12,7 +12,7 @@
 - Implement an User-Admin-System
 - Look around an Way to secure send Mails via OpenPGP
 - Make it openssf-best-practice to 100/300%
-- Depdencies-less
+- Depdencies-less ✅
 - Add-on compatible
 - Documentation
 ##Road-map: _See [Issue](https://github.com/T1z3n/Visitor-Management-System/issues) and [Project-Kanban](https://github.com/T1z3n/Visitor-Management-System/discussions/15)_
